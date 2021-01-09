@@ -1,0 +1,13 @@
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: data in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 22
+[28-Oct-2020 15:23:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 24
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: fname in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: lname in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: mobile_number in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: street_name in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: unit_apt in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: city in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: zipcode in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: additional_ins in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: days in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39
+[28-Oct-2020 15:23:27 UTC] PHP Notice:  Undefined index: tiffinbox_quantity in /home/ritesh1280/public_html/dailydietsd.com/order_form/checkout/pay_pal_integration/success.php on line 39

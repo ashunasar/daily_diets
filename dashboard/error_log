@@ -1,0 +1,136 @@
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[30-Oct-2020 12:24:43 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[31-Oct-2020 02:43:38 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[31-Oct-2020 10:47:36 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[31-Oct-2020 10:47:57 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 03:59:21 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 03:59:54 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 07:25:14 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 09:53:03 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 10:17:29 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 10:54:30 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 10:58:54 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 11:39:18 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[02-Nov-2020 13:34:31 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[03-Nov-2020 00:46:32 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[03-Nov-2020 08:03:21 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[03-Nov-2020 09:25:27 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 46
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'mobile' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 61
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'email' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 67
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'referred_by' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 75
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'refer_code' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 81
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'fname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 89
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Trying to get property 'lname' of non-object in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 95
+[03-Nov-2020 20:12:45 Asia/Kolkata] PHP Notice:  Undefined index: email in /home/ritesh1280/public_html/dailydietsd.com/order_form/dashboard/my_profile.php on line 135
